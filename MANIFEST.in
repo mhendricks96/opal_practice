@@ -1,0 +1,3 @@
+recursive-include opal_practice/static *
+recursive-include opal_practice/assets *
+recursive-include opal_practice/templates *
