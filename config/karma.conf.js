@@ -1,3 +1,5 @@
+// Karma is a console tool for running tests. it can track source code changes and display the percentage of code tests coverage. It is adjusted using the configuration file karma.conf.js(HERE), where the paths to tested files and to the files with tests should be specified.
+
 // config/karma.config.js
 
 module.exports = function(config){
